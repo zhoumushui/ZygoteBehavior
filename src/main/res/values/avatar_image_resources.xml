@@ -18,7 +18,6 @@
     <dimen name="spacing_normal">16dp</dimen>
 
     <!-- strings -->
-    <string name="app_name">Coordinator example</string>
     <string name="quila_name">Quila</string>
     <string name="quila_tagline">I love bones and slippers</string>
     <string name="quila_name2">Quila!</string>
